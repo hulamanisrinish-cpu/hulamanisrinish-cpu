@@ -1,5 +1,36 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>🛡️ Research-driven security tools for intelligent surveillance systems<br><br>📊 Real-time analytics platforms with secure architecture<br><br>☁️ Cloud-native security deployment practices<br><br>🧠 Scalable AI-integrated monitoring systems<br><br>👯 I’m looking to collaborate on<br><br>🔐 Open-source tools focused on system security<br><br>⚡ Real-time data analytics & secure backend systems<br><br>🧩 Research-oriented cybersecurity & AI projects<br><br>🛰️ Intelligent monitoring & surveillance technologies<br><br>🤝 I’m looking for help with<br><br>📄 Research publication structuring & refinement<br><br>🧾 Advanced technical documentation practices<br><br>🏗️ Large-scale secure system architecture design<br><br>🔍 Threat modeling & security validation<br><br>🌱 I’m currently learning<br><br>☁️ Cloud security deployment strategies<br><br>🛡️ Advanced web & application security<br><br>🔄 Scalable system design patterns<br><br>📈 Performance optimization for secure applications<br><br>💬 Ask me about<br><br>🔐 Secure system architecture<br><br>🧠 Research-driven system development<br><br>📊 Real-time monitoring & analytics systems<br><br>🛡️ Security-first engineering mindset<br><br>⚡ Fun fact<br>I approach engineering challenges like a research problem — prioritizing scalability, security, and real-world deployment over simple demonstrations.🔭 I’m currently working on<br>
+
+🔭 I’m currently working on<br><br>
+🛡️ Research-driven security tools for intelligent surveillance<br><br>
+📊 Real-time analytics platforms with secure architecture<br><br>
+🧠 Scalable AI-integrated monitoring systems<br><br>
+☁️ Cloud-native deployment for secure applications<br><br>
+
+👯 I’m looking to collaborate on<br><br>
+🔐 Open-source security tools<br><br>
+⚡ Real-time analytics & secure backend systems<br><br>
+🧩 Cybersecurity & AI research projects<br><br>
+
+🤝 I’m looking for help with<br><br>
+📄 Research publication structuring<br><br>
+🧾 Advanced technical documentation<br><br>
+🏗️ Large-scale secure system architecture<br><br>
+🔍 Threat modeling & validation<br><br>
+
+🌱 I’m currently learning<br><br>
+☁️ Cloud security strategies<br><br>
+🛡️ Advanced web & application security<br><br>
+🔄 Scalable system design patterns<br><br>
+📈 Performance optimization for secure systems<br><br>
+
+💬 Ask me about<br><br>
+🔐 Secure system architecture<br><br>
+📊 Real-time monitoring & analytics<br><br>
+🧠 Research-driven development<br><br>
+🛡️ Security-first engineering<br><br>
+
+⚡ Fun fact<br><br>
+I approach engineering challenges like a research problem — prioritizing scalability, security, and real-world deployment over demos.
 
 
 ## 🌐 Socials:
