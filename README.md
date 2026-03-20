@@ -1,36 +1,48 @@
-# 💫 About Me:
+# 👋 About Me<br>
 
-🔭 I’m currently working on<br><br>
-🛡️ Research-driven security tools for intelligent surveillance<br><br>
-📊 Real-time analytics platforms with secure architecture<br><br>
-🧠 Scalable AI-integrated monitoring systems<br><br>
-☁️ Cloud-native deployment for secure applications<br><br>
+Electronics & Communication Engineering student building **secure, intelligent systems** at the intersection of **cybersecurity, AI, and scalable infrastructure**.<br>
+I approach engineering like a research problem — focused on **real-world impact, security, and scalability**.
 
-👯 I’m looking to collaborate on<br><br>
-🔐 Open-source security tools<br><br>
-⚡ Real-time analytics & secure backend systems<br><br>
-🧩 Cybersecurity & AI research projects<br><br>
+---
 
-🤝 I’m looking for help with<br><br>
-📄 Research publication structuring<br><br>
-🧾 Advanced technical documentation<br><br>
-🏗️ Large-scale secure system architecture<br><br>
-🔍 Threat modeling & validation<br><br>
+## 🚀 What I’m Building<br>
 
-🌱 I’m currently learning<br><br>
-☁️ Cloud security strategies<br><br>
-🛡️ Advanced web & application security<br><br>
-🔄 Scalable system design patterns<br><br>
-📈 Performance optimization for secure systems<br><br>
+🛡️ Intelligent surveillance & monitoring systems<br>
+📊 Real-time analytics platforms with secure architecture<br>
+🧠 AI-integrated security systems<br>
+☁️ Cloud-native deployment for scalable applications
 
-💬 Ask me about<br><br>
-🔐 Secure system architecture<br><br>
-📊 Real-time monitoring & analytics<br><br>
-🧠 Research-driven development<br><br>
-🛡️ Security-first engineering<br><br>
+---
 
-⚡ Fun fact<br><br>
-I approach engineering challenges like a research problem — prioritizing scalability, security, and real-world deployment over demos.
+## 🧠 Core Expertise<br>
+
+🔐 Secure system architecture & backend design<br>
+📊 Real-time data processing & analytics<br>
+🧠 AI-driven monitoring systems<br>
+🔍 Threat modeling & security validation<br>
+🔄 Scalable system design patterns
+
+---
+
+## 🤝 Open to Collaborate On<br>
+
+🧩 Research-driven cybersecurity & AI projects<br>
+🔐 Open-source security tools<br>
+⚡ Real-time analytics & backend systems
+
+---
+
+## 📚 Currently Exploring<br>
+
+☁️ Advanced cloud security strategies<br>
+🛡️ Web & application security<br>
+📈 Performance optimization for secure systems
+
+---
+
+## 💡 Fun Insight<br>
+
+I design systems with a **security-first mindset**, balancing research, engineering, and real-world deployment.
 
 
 ## 🌐 Socials:
